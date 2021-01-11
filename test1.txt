@@ -1,10 +1,1 @@
- Volume in drive C is WIN10OS
- Volume Serial Number is 84F3-7AA6
-
- Directory of C:\Users\khalisah\Desktop\MyProject
-
-01/11/2021  12:14 PM    <DIR>          .
-01/11/2021  12:14 PM    <DIR>          ..
-01/11/2021  12:14 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  276,220,141,568 bytes free
+CHANGE 1
